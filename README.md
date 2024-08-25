@@ -22,7 +22,7 @@ Bem-vindo ao projeto **Amigo Secreto**! Este projeto foi desenvolvido para facil
 
 ## 📸 Screenshot
 
-![Amigo Secreto]()
+![Amigo Secreto](https://github.com/user-attachments/assets/88d581b4-c83b-42a6-b2bb-8e420cbf4d3e)
 
 
 ## 📝 Observações
